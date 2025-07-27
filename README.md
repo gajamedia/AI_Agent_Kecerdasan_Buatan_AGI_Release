@@ -30,9 +30,7 @@ Gabungan dari lokal + Firebase
 
 🚀 Teknologi yang Digunakan Python (>=3.10) Transformers (HuggingFace) Safetensors SentenceTransformer / BERT Firebase Realtime Database Custom NLP pipeline (tokenizer, normalizer, similarity scoring)
 
-🤖 Apakah Ini AI Generatif dan Adaptif? sistem ini bersifat semi-generatif, karena:
+🤖 Apakah Ini AI Generatif dan Adaptif? 
 
-Tidak sekadar mencocokkan pertanyaan
-Mampu menggabungkan info dari berbagai sumber
-Output disesuaikan gaya dan konteks pengguna
+sistem ini masih bersifat semi-generati walau sudah Tidak sekadar mencocokkan pertanyaan, Mampu menggabungkan info dari berbagai sumber, Output disesuaikan gaya dan konteks pengguna
 bersifat adaptif, karena belajar dari pengalaman dan menyesuaikan strategi pencarian berdasarkan input pengguna yang terus berubah.
