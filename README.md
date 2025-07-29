@@ -1,4 +1,4 @@
-Download Latest Update Link: https://github.com/gajamedia/Kecerdasan_Buatan/releases/download/hAI-v2.5.1/hAI-v2.5.1.zip
+Download Latest Update Link: https://github.com/gajamedia/Kecerdasan_Buatan/releases/download/hAI-v2.5.2/hAI-v2.5.2.zip
 
 Ini adalah project Kecerdasan Buatan Tahap awal yang saya kembangkan berbasis console mode, berikut penjelasan mengenai fitur-fitur apa saja di tahap awal ini:
 
