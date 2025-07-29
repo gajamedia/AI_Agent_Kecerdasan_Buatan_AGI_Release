@@ -34,3 +34,29 @@ Gabungan dari lokal + Firebase
 
 sistem ini masih bersifat semi-generati walau sudah Tidak sekadar mencocokkan pertanyaan, Mampu menggabungkan info dari berbagai sumber, Output disesuaikan gaya dan konteks pengguna
 bersifat adaptif, karena belajar dari pengalaman dan menyesuaikan strategi pencarian berdasarkan input pengguna yang terus berubah.
+
+ROADMAP:
+Level	        Fitur / Ide	Deskripsi	Status
+🟢 Dasar	    Rule-based Response	Jawaban berdasarkan keyword & intent manual	✅ 
+	            TF-IDF Matching	Pencocokan makna pakai TF-IDF manual	✅ 
+	            Logging Interaksi	Simpan riwayat pertanyaan & jawaban	✅ 
+	            Sinonim & Normalisasi	Ubah kata ke bentuk umum	✅
+
+🟡 Menengah	  🔄 Feedback Loop Auto-Retrain	Otomatisasi pembelajaran dari user feedback	
+	            📌 Saran Pertanyaan Mirip	Saat tidak ketemu intent, beri saran mirip	
+	            📊 Visualisasi Log	Dashboard Flask atau Matplotlib
+	            📂 UUID & Metadata	Logging + analisa berdasarkan pertanyaan unik	✅
+
+🔵 Lanjut	    🎯 Intent Classifier	Deteksi intent otomatis pakai ML (FastText, sklearn)
+	            🤖 Fallback GPT API	External sebagai jawaban fallback
+	            🧠 Memory Reasoning	Beri jawaban berdasarkan riwayat sesi
+	            🔍 Dense Embedding IR	Pencarian dokumen pakai vector dense (BERT/FAISS)
+               Auto-Retrain (BERT Embedding) ✅
+
+🟣 Advanced	  🔗 RAG-style Retrieval	Kombinasi IR + LLM (RAG atau LangChain)	🧩 Jangka panjang
+	            💬 RLHF-style Feedback	Reward jawaban berdasarkan user feedback	🧩 R&D
+	            🎯 Context-aware Response	Jawaban dengan konteks diskusi sebelumnya	🧩 NLP lanjutan
+	            📷 OCR & Image Caption	Jawab pertanyaan dari gambar atau tulisan	🧩 Computer Vision
+
+
+
