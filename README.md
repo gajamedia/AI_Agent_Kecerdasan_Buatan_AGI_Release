@@ -1,6 +1,6 @@
 Download Latest Update Link: https://github.com/gajamedia/Kecerdasan_Buatan/releases/download/hAI-v2.5.2/hAI-v2.5.2.zip
 
-Ini adalah project Kecerdasan Buatan Tahap awal yang saya kembangkan berbasis console mode, berikut penjelasan mengenai fitur-fitur apa saja di tahap awal ini:
+Ini adalah project Kecerdasan Buatan Tahap awal yang saya kembangkan berbasis console mode, berikut penjelasan mengenai fitur-fitur apa saja di tahap awal ini (Console Base):
 
 🧠 AI Agent: Adaptif, Generatif, dan Belajar Mandiri AI Agent ini adalah sistem pencarian jawaban cerdas berbasis Python yang menggabungkan pendekatan retrieval (berbasis kemiripan teks) dan generative response untuk memberikan jawaban yang alami, kontekstual, dan bisa berkembang melalui interaksi pengguna.
 
